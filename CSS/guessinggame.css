@@ -1,0 +1,61 @@
+body{
+  font-size: 20px;
+  padding-left: 200px;
+}
+.game{
+    background-color: cyan;
+    width: 800px;
+    height: 600px;
+}
+h1{
+    width: 100%;
+    background-color: crimson;
+    text-align: center;
+    height: 70px;
+}
+p{
+    color: navy;
+    font-size: 20px;
+    text-align: center;
+}
+#guessarea{
+    width: 500px;
+    height: 100px;
+    margin-left: 140px;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 40px;
+}
+.span{
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 500px;
+    height: 30px;
+}
+.button{
+    height: 50px;
+    width: 550px;
+    margin-top:10px;
+    margin-left: 120px;
+    border: 0;
+    border-radius: 5px;
+    background-color: crimson;
+    font-size: 25px;
+}
+#submit{
+    background-color: dodgerblue;
+    color: white;
+    height: 50px;
+    width: 300px;
+    border: 0;
+    margin-left: 250px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#result{
+    margin-left: 250px;
+    font-size: 30px;
+}

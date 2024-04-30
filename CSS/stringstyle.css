@@ -1,0 +1,65 @@
+body{
+    background-color: navajowhite;
+    color: white;
+    padding-left: 230px;
+    padding-top: 30px;
+}
+.twitter{
+    background-color: darkslategray;
+    width: 700px;
+    height: 500px;
+    padding-left: 100px;
+    padding-top: 20px;
+    border-radius: 10px;
+}
+input{
+    border: 0;
+    height: 50px;
+    margin-bottom: 20px;
+    color: aliceblue;  
+    background-color: forestgreen;
+    border-radius: 5px;
+    width: 250px;
+    text-align: center;
+}
+
+::placeholder{
+    color:lightgreen;
+}
+#refresh{
+    background-color: darkorange;
+    border: 0;
+    height: 40px;
+    width: 150px;
+    border-radius: 5px;
+    margin-left: 180px;
+}
+.btt2{
+    height: 60px;
+    border: 0;
+    background-color: silver;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    margin-right: 120px;
+    width: 200px;
+}
+textarea{
+    background-color:silver;;
+    border-radius: 5px;
+    width: 600px;
+}
+#btn1{
+    height: 60px;
+    border: 0;
+    background-color:forestgreen; 
+    border-radius: 5px;
+    margin-bottom: 30px;
+    width: 280px;
+    color: lightgreen;
+    margin-left: 120px;
+    margin-right: 150px;
+}
+.text2{
+    margin-left: 40px;
+    margin-top: 50px;
+}

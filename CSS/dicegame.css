@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    text-align: center;
+    padding-left: 10px;
+    color: aliceblue;
+    padding-left: 170px;
+}
+
+.play1{
+    width: 350px;
+    background-color: crimson;
+    height: 250px;
+    float: left;
+    text-align: center;
+    font-size: 90px;
+    color: aliceblue;
+    margin-left: 150px;
+    margin-top: 20px;
+    padding-top: 50px;
+}
+.play2{
+    width: 350px;
+    background-color: blue;
+    height: 250px;
+    float: left;
+    color: aliceblue;
+    font-size: 90px;
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 20px;
+    margin-right: 70px;
+}
+#btt1{
+    height: 50px;
+    width: 150px;
+    border: 0;
+    background-color: yellow;
+    border-radius: 5px;
+    margin-top: 20px;
+
+}
+span{
+    color: aliceblue;
+    margin-bottom: 30px;
+}
+h1{
+    color: aliceblue;
+}
+#dicegame{
+    background-color: forestgreen;
+    width: 1000px;
+    height: 500px;
+    border-radius: 5px;
+}

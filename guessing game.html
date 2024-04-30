@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guessing Game .com</title>
+    <link rel="stylesheet" href="CSS/guessinggame.css">
+</head>
+<body>
+<div class="game" id="game">
+<h1>Number guessing game</h1>  
+<p>Try and guess a random number between 1 and 100.<br><br>
+   You have ten attempts to guess the right number
+</p>
+<textarea id="guessarea" cols="30" rows="10"></textarea><br>
+
+<div class="span">
+<span id="guess"></span>
+<span id="tries"></span><br></div>
+
+<div id="result"></div>
+
+<button id="submit" onclick="playgame()">Submit guess</button>
+<button class="button" onclick="resetgame(), cchange()">Start a New Game</button>
+
+<script src="JS/guessinggame.js"></script>
+</div>
+
+
+
+
+
+
+
+</body>
+</html>
